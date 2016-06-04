@@ -1,0 +1,6 @@
+H1,H2,H3 {color: #001C30; font-family:sans-serif}
+a:link{color: blue;}
+a:visit{color: green;}
+a:hover{color: red;text-decoration:blink}
+li:hover{background-color:#E5E4E2;}
+.title:{color: blue;}
