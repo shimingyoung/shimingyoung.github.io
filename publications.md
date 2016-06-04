@@ -39,29 +39,67 @@ subtitle: My academic work
 ## Patent
 
 1. (published) P.Hu, C. Mackenzie, **S. Yang**, H. Chen, _Method and Apparatus for Predicting a Need for a Blood Transfusion_, Pub.No.: [WO/2015/023708 A1](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2015023708&recNum=71).
-..* [UM Ventures](http://www.umventures.org/technologies/bleeding-risk-index-bri-monitor)
+[UM Ventures](http://www.umventures.org/technologies/bleeding-risk-index-bri-monitor)
 
 ---
 
 ## Conference paper
 
-1. **S. Yang**, K. Kalpakis, A. Biem, Spatio-temporal Coupled Bayesian Robust Principal Component Analysis for Road Traffic Event Detection, IEEE Intelligent Transportation Systems (ITSC2013), Oct.6-9, 2013, Hague, Netherland. [Abs](papers/timing.txt) [PDF](papers/main_conf_ITS13.pdf)
+1. **S. Yang**, K. Kalpakis, A. Biem, Spatio-temporal Coupled Bayesian Robust Principal Component Analysis for Road Traffic Event Detection, IEEE Intelligent Transportation Systems (ITSC2013), Oct.6-9, 2013, Hague, Netherland. [Abs](../papers/timing.txt) [PDF](../papers/main_conf_ITS13.pdf)
 1. S. Chen, **S. Yang**, K. Kalpakis, Chein-I Chang, Low-rank decomposition-based anomaly detection, SPIE 2013, Baltimore.
-1. **S. Yang**, K. Kalpakis, Colin F. Mackenzie, Lynn G Stansbury, Deborah M. Stein, Thomas M. Scalea, P. F. Hu, Online Recovery of Missing Values in Vital Signs Data Streams using Low-rank Matrix Completion, 11th International Conference on Machine Learning and Applications ICMLA 2012,pp.281-287, Dec.12-15, Boca Raton, FL [Abs](papers/MC_ICMLA12_abs.txt) [PDF](papers/MC_ICMLA12_main.pdf)
-1. **S. Yang**, K. Kalpakis, Alain Biem, An Adaptive Observation Site Selection Strategy for Road Traffic Data Assimilation, Fifth ACM SIGSPATIAL International Workshop on Computational Transportation Science, Nov. 6, 2012, Redondo Beach, CA [Abs](papers/IWCTS12_abs.txt) [PDF](papers/IWCTS12_no4.pdf)  [Slides](https://www.dropbox.com/s/8yb1evhxlqe154x/Traffic_Shiming12.pptx?dl=0)
-1. K. Kalpakis, **S. Yang**, Peter Hu, C. F. Mackenzie, L. Stansbury, D.M. Stein, T.M. Scalea, Outcome Prediction for Patients with Severe Traumatic Brain Injury Using Permutation Entropy Analysis of Electronic Vital Signs Data, Machine Learning and Data Mining in Pattern Recognition, 415-426 (Nominated Best Paper.) [Link](http://www.springerlink.com/content/k67p4448432u1111/) [Abs](papers/MLDM12_abs.txt) [PDF](papers/MLDM12.pdf)  [Slides](https://www.dropbox.com/s/1if7rpy5c9lfxmp/Outcome%20prediction%20for%20TBI%20patients%20using%20permutation%20entropy.pptx?dl=0)
+1. **S. Yang**, K. Kalpakis, Colin F. Mackenzie, Lynn G Stansbury, Deborah M. Stein, Thomas M. Scalea, P. F. Hu, Online Recovery of Missing Values in Vital Signs Data Streams using Low-rank Matrix Completion, 11th International Conference on Machine Learning and Applications ICMLA 2012,pp.281-287, Dec.12-15, Boca Raton, FL [Abs](../papers/MC_ICMLA12_abs.txt) [PDF](../papers/MC_ICMLA12_main.pdf)
+1. **S. Yang**, K. Kalpakis, Alain Biem, An Adaptive Observation Site Selection Strategy for Road Traffic Data Assimilation, Fifth ACM SIGSPATIAL International Workshop on Computational Transportation Science, Nov. 6, 2012, Redondo Beach, CA [Abs](../papers/IWCTS12_abs.txt) [PDF](../papers/IWCTS12_no4.pdf)  [Slides](https://www.dropbox.com/s/8yb1evhxlqe154x/Traffic_Shiming12.pptx?dl=0)
+1. K. Kalpakis, **S. Yang**, Peter Hu, C. F. Mackenzie, L. Stansbury, D.M. Stein, T.M. Scalea, Outcome Prediction for Patients with Severe Traumatic Brain Injury Using Permutation Entropy Analysis of Electronic Vital Signs Data, Machine Learning and Data Mining in Pattern Recognition, 415-426 (Nominated Best Paper.) [Link](http://www.springerlink.com/content/k67p4448432u1111/) [Abs](../papers/MLDM12_abs.txt) [PDF](../papers/MLDM12.pdf)  [Slides](https://www.dropbox.com/s/1if7rpy5c9lfxmp/Outcome%20prediction%20for%20TBI%20patients%20using%20permutation%20entropy.pptx?dl=0)
 1. MK Gobbert, **S. Yang**, Numerical demonstration of finite element convergence for Lagrange elements in COMSOL Multiphysics, In: Vineet Dravid, editor, Proceedings of the COMSOL Conference 2008, Boston, MA. [Link](http://www.uk.comsol.com/papers/4965/download/Gobbert_pres.pdf) [PDF](http://userpages.umbc.edu/~gobbert/papers/GobbertYangCOMSOL2008.pdf) 
 
 ---
 
 ## Abstract
 
+1. M. J. Bradley, B. Bonds, L. Chang, **S. Yang**, P. Hu, H.C. Li, M.L. Brenner, T.M. Scalea, D.M. Stein, Open Chest Cardiac Massage Offers No Benefit Over Closed Chest Compressions in Patients with Trauma Cardiac Arrest, 29th EAST Annual Scientific Assembly, Jan. 12-16, 2016, San Antonio, Texas.
+1. P. Hu, S. Shackelford, **S. Yang**, H.C. Li, D. M. Stein, T.M. Scalea, C.F. Mackenzie, Do Multiple Vital Sign Sensors Improve the Prediction of Emergency Blood Transfusion in Adult Trauma Patients? Millitary Health System Research Symposium (MHSRS) 2015, Aug.17-20, Ft. Lauderdale, FL.
+1. P. Hu, **S. Yang**, F. Yang, H.C. Li, G. Hagegeorge, L. Hartsky, C. Miller, B. Bonds, C.F. Mackenzie, Big Data Challenge: How Much Redundance is Required in Real-time Trauma Patient Vital Signs Waveform Collecting System? Millitary Health System Research Symposium (MHSRS) 2015, Aug.17-20, Ft. Lauderdale, FL. 
+1. D.M. Stein, P. Hu, **S. Yang**, et. al, An Early Decision Model Predicts the Need for Uncross Matched Blood (UnXRBC) and Massive Transfusion (MT) Following Trauma, the 74th Annual Meeting of AAST and Clinical Congress of Acute Care Surgery, Las Vegas, NV, Sep.9-12, 2015.
+1. K. Colton, **S. Yang**, P. Hu, T. M. Scalea, D. M. Stein, Simplifying the calculation of optimal cerebral perfusion pressure without continuous waveforms, Society of Critical Care Congress (SCCM) 2015, Phonenix, Arizona, Jan.17-21, 2015.  
+1. C. Mackenzie, G. Cheng, A. Ananzada, H.H. Chen, **S. Yang**, R. Fang, S. Galvagno, P. Hu, Are hemoglobin oximetry, vital signs and laboratory values able to predict emergency transfusion? Society of Critical Care Congress (SCCM) 2015, Phonenix, Arizona, Jan.17-21, 2015. 
+1. K. Colton, **S. Yang**, P. Hu, H.H. Chen, T.M. Scalea, D. M. Stein, Hemodynamic changes after decompressive craniectomy for intracranial hypertension, Society of Critical Care Congress (SCCM) 2015, Phonenix, Arizona, Jan.17-21, 2015.
+1. **S. Yang**, P. Hu, Y. Wang, A. Anazado, C. Miller, R. Fang, S. Shackelford, C. Mackenzie, Design of Vendor-neutral Platform for Fast Prototype Model Verification and Deployment, AMIA Annual Symposium 2014, Nov. 14-18, D.C.
+1. P. Hu, R. Ramakrishnan, **S. Yang**, A. Anazodo, C. Imle, L. Hartsky, C. Miller, S. Shackelford, S. Galvagno, J.D.O., C. Mackenzie, Do multiple measurements of field vital signs enhance prediction of emergency transfusion and interventions?, ASA (Anesthesiology) 2014, New Orleans, LA, Oct.11-15. [Link](http://www.asaabstracts.com/strands/asaabstracts/abstract.htm;jsessionid=D3BF4E3B32B4ABA46B2B59F63DD1FCAE?year=2014&index=14&absnum=4112)
+1. B. Bonds, P. Hu, Y. Li, **S. Yang**, K. Colton, T. Grisson, R. Fang, D. Stein, Predicive Value of Hyperthermia and Intracranial Hypertension on Neurological Outcomes in Patients with Moderate to Severe Traumatic Brain Injury, International Brain Injury Association(IBIA), San Francisco, Mar. 19-22, 2014.
+1. K. Colton, **S. Yang**, P. Hu, H. Chen, L. Stansbury, T.M. Scalea, D.M. Stein, Intracranial Pressure Response After Pharmacologic Treatment of Intracranial Hypertension. 27th Eastern Association for the Surgery of Trauma (EAST) Annual Scientific Assembly, Jan. 14-18, 2014.
+1. K. Colton, **S. Yang**, P. Hu, L. Stansbury, H. H. Chen, Thomas M. Scalea, Deborah Stein, Responsiveness to Therapy for Increased Intracranial Pressure in Traumatic Brain Injury is Associated with Neurological Outcome, J. of Neurotrauma, 30 (15), A123-A124. [Link](http://online.liebertpub.com/doi/pdfplus/10.1089/neu.2013.9938)
+1. H. H. Chen, **S. Yang**, P. Hu, L. G. Stansbury, Catriona Miller, Deborah M. Stein, T. M. Scalea, Logistic Regression Modeling as an Analytic Platform to Provide Valid Individualized Prognostic Information from Continuous Realtime Monitoring Data in the Neuro-trauma Critical Care Unit, J. of Neurotrauma, 30 (15), A126-A126. [Link](http://online.liebertpub.com/doi/pdfplus/10.1089/neu.2013.9938)
+1. R. North, P.F.Hu, **S. Yang**, K. Frank, C.F. Mackenzie, Real-world Respiratory Rate (RR) Signal Processing During Trauma Patient Resuscitation. AMIA 2013, D.C. [Link](http://knowledge.amia.org/amia-55142-a2013e-1.580047/t-03-1.584514/f-003-1.584515/a-382-1.584583/a-388-1.584580?qr=1)
+1. P. F. Hu, Colin F. Mackenzie, L. G. Stansbury, **S. Yang**, X. Zhu, JR Hess, & ONPOINT Group, Gender- and age-adjusted Shock Index predictions of emergent blood use.       Military Health System Research Symposium (MHSRS)/ATACCC Aug 13-16 2012 
+1. P. Hu, M. Zuckerman, W Fink, **S. Yang**, J. Fink, Design and Development of a Patient Safety Website for Tracking Chronic Kidney Disease Patients, American Telemedicine Association, 16th Annual International Meeting & Exposition, May 1-3, 2012, Tampa, Florida
+1. K. Kalpakis, **S. Yang**, Y. Yesha, Near Real-time Data Assimilation for the HYSPLIT Aerosol Dispersion Model, AGU Fall Meeting Abstracts [Link](http://adsabs.harvard.edu/abs/2010AGUFMIN31A1266K)
+
 ---
 
 ## Review
 
+I served as a reviewer for the following journals/conferences:
+
+1. International Conference on Intelligent Computing (ICIC2016)
+1. Statistical Methods in Medical Research
+1. Neurocomputing (Elsevier)
+1. Healthcare, MDPI
+1. Society for Academic Emergency Medicine Annual Meeting 2016
+1. IEEE BigdataService 2016
+1. IEEE Trans. on Vehicular Technology
+1. AMIA (American Medical Informatics Association) 2014,2015,2016 Annual Symposium
+1. Computers in Biology and Medicine
+1. Currency and Computation
+
 ---
 
 ## Selected presentations
+
+1. Learning from Clinical Data 150th Method and Stat Meeting of Patient Safety Research Group, UMB, Aug. 12, 2014. [Slides](https://www.dropbox.com/s/4hp5g5cbr7dmnmb/Talk_08122014.pptx?dl=0)
+1. A short talk on machine learning: on the Method and Stat Meeting of Patient Safety Research Group, UMB, Aug. 5, 2014. [Slides](https://www.dropbox.com/s/sfhbdwq8dnnubra/Talk08052014.pptx?dl=0)
+1. A short talk on variable importance: on the Method and Stat Meeting of Patient Safety Research Group, UMB, Jul. 29, 2014. [Slides](https://www.dropbox.com/s/5jh40h7hsjb8d3o/Talk07292014.pptx?dl=0) 
+1. Massive Clinical Data Analyzing: How Clinical Research Meets the Big Data. Univ. of Maryland School of Medicine, Department of Anesthesiology, Jan. 30, 2014. [Slides](https://www.dropbox.com/s/ski8q3rr4d373e0/Talk_01302014V3.pptx?dl=0)
+1. Road Traffic Forecast: On Model Calibration and Solving. UMBC, Mar. 27, 2012. [Slides](https://www.dropbox.com/s/gaqj8o9w6l1npx1/TrafficModelCalibrationAndSolving.pptx?dl=0)
+1. Graphical Model and Partical Filtering. UMBC. Apr. 11, 2011. [Slides](https://www.dropbox.com/s/ea20nwgt9q75nmw/PresentationApr11.pdf?dl=0)
 
 ---
