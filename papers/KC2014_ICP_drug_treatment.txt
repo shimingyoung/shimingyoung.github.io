@@ -1,0 +1,20 @@
+Abstract
+BACKGROUND
+
+The accepted treatment of increased intracranial pressure (ICP) in patients experiencing severe traumatic brain injury is multimodal and algorithmic, obscuring individual effects of treatment. Using continuous vital signs monitoring, we sought to measure treatment effect and ascertain the accuracy of manual data recording.
+
+METHODS
+
+Patients older than 17 years, admitted and requiring ICP monitoring between 2008 and 2010 at a high-volume urban trauma center, were retrospectively evaluated. Timing and dose of ICP-directed therapy were recorded from paper and electronic medical records. ICP data were collected automatically at 6-second intervals and from manual charts. A statistical mixed model was applied to all data to account for multiple sampling.
+
+RESULTS
+
+A total of 117 patients met inclusion criteria; 450 treatments were administered when nursing records indicate an ICP greater than 20 mm Hg, while 968 treatments were given when ICP was greater than 20 mm Hg by automated data. Pharmacologic treatments identified include hypertonic saline (HTS), mannitol, barbiturates, and dose escalations of propofol or fentanyl infusions. Treatment with HTS resulted in the largest ICP decrease of the treatments examined, with a 1-hour ICP reduction of 8.8/9.9 mm Hg (for a small/large dose) according to manual data and a reduction of 3.0/2.4 mm Hg according to automated data. Propofol and fentanyl escalations resulted in smaller but significant ICP reductions. Mannitol (n = 8) resulted in statistically insignificant trends down in the first hour but rebounded by the second hour after administration. The average ICP in the hour before medication administration was higher for barbiturates (27 mm Hg) and mannitol (32 mm Hg) than for the other interventions (18~19 mm Hg).
+
+CONCLUSION
+
+ICP fell after administration of HTS, mannitol, or barbiturates and showed continued improvement after 2 hours. ICP fell initially after treatment with short-acting propofol and fentanyl but trended back up after 2 hours. Manually recorded data consistently overestimated treatment effectiveness. Automated data collection gives a more accurate assessment of patient status and responsiveness to treatment.
+
+LEVEL OF EVIDENCE
+
+Therapeutic study, level IV.
