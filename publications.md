@@ -83,6 +83,7 @@ I served as a reviewer for the following journals/conferences:
 1. International Conference on Intelligent Computing (ICIC2016)
 1. Statistical Methods in Medical Research
 1. Neurocomputing (Elsevier)
+1. Applied Sciences, MDPI
 1. Healthcare, MDPI
 1. Society for Academic Emergency Medicine Annual Meeting 2016
 1. IEEE BigdataService 2016
