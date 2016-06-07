@@ -12,7 +12,7 @@ subtitle: My academic work
 
 ## Journal
 
-1. **S. Yang**, A. Menne, P.F. Hu, L. Stansbury, C. Gao, N. Dorsey, W. Chiu, S. Shackelford, C.F. Mackenzie, _Acoustic Sensor versus Electrocardiographically Derived Respiratory Rate in Unstable Trauma Patients_, J. of Clin. Monit. Comput. 2016, accepted on Jun. 3. 
+1. **S. Yang**, A. Menne, P.F. Hu, L. Stansbury, C. Gao, N. Dorsey, W. Chiu, S. Shackelford, C.F. Mackenzie, _Acoustic Sensor versus Electrocardiographically Derived Respiratory Rate in Unstable Trauma Patients_, J. of Clin. Monit. Comput. 2016, accepted on Jun. 3. [Link](http://link.springer.com/article/10.1007/s10877-016-9895-8) [PDF]
 1. N. Parimi, P.F. Hu, C. Mackenzie, **S. Yang**, et.al, _Automated Continuous Vital Signs Predict Use of Uncrossed Matched Blood (UnXRBC) and Massive Transfusioin (MT) Following Trauma_, J. of Trauma, 2016;80(6):897-906. [Link](http://journals.lww.com/jtrauma/Abstract/publishahead/Automated_continuous_vital_signs_predict_use_of.99566.aspx) [Draft](../papers/JoTAAST_2016draft.pdf)  
 1. Z.DW. Dezman, E. Hu, P.F. Hu, **S. Yang**, L.G. Stansbury, R. Fang, C. Miller, C.F. Mackenzie, _Computer Modelling Using Prehospital Vitals Predicts Transfusion and Mortality_, Prehospital Emergency Care, Accepted Jan. 2016. [Link](http://www.tandfonline.com/doi/full/10.3109/10903127.2016.1142624) [PDF](../papers/PEM_2016.pdf)
 1. **S. Yang**, P.F. Hu, A. Anazodo, C. Gao, H. Chen, C. Wade, L. Hartsky, C. Miller, C. Imle, R. Fang, C.F. Mackenzie, _Trends of hemoglobin oximetry: do they help predict blood transfusion during trauma patient resuscitation?_, Anesthesia & Analgesia, 2016; 122(1) p115-25. [Link](http://journals.lww.com/anesthesia-analgesia/Abstract/publishahead/Trends_of_Hemoglobin_Oximetry___Do_They_Help.98224.aspx) [PDF](../papers/AA2015_manuscript.pdf) [Suppl.](../papers/AA2015_SupplementaryMaterial.pdf)
@@ -55,7 +55,10 @@ subtitle: My academic work
 ---
 
 ## Abstract
-
+1. **S. Yang**, D.M. Stein, S. Galvagno, S. Shackelford, C. Miller, C.F. Mackenzie, S. Wade, T. Grissom, N. Roux, P.F. Hu, Prototype Design of Real Time Vital Signs Monitor System for Critical Care Air Transport Team(CCATT), Millitary Health System Research Symposium (MHSRS) 2016, Kissimmee, FL, Aug. 15-18, 2016.
+1. **S. Yang**, P.F. Hu, K. Kalpakis, C. Miller, H.C. Li, Y. Li, D.M. Stein, _Intracranial Pressure (ICP) Estimation Through Fast Similarity Search_, 16th Int'l Symposium on Intracranial Pressure and Neuromonitoring, Boston, MA, Jun.28-Jul.2, 2016.
+1. N. Parimi, **S. Yang**, P.F. Hu, H.C. Li, C.F. Mackenzie, R. A. Kozar, M.J. Fontaine, C. Miller, T.M. Scalea, D.M. Stein, _Emergency Blood Transfusion Following Trauma - Selecting the Right Patient_, 39th Annual Conference on Shock, Austin, TX, Jun.11-14, 2016.
+1. **S. Yang**, H.C Li, R. Kozar, C.F. Mackenzie, C. Miller, L.G. Stansbury, D.M. Stein, T.M. Scalea, P.F. Hu, _New Pre-hospital Vital Signs Triage Threshold for Better Prediction of Emergency Blood Transfusion for Geriatric Trauma Patient_, 39th Annual Conference on Shock, Austin, TX, Jun.11-14, 2016. 
 1. M. J. Bradley, B. Bonds, L. Chang, **S. Yang**, P. Hu, H.C. Li, M.L. Brenner, T.M. Scalea, D.M. Stein, Open Chest Cardiac Massage Offers No Benefit Over Closed Chest Compressions in Patients with Trauma Cardiac Arrest, 29th EAST Annual Scientific Assembly, Jan. 12-16, 2016, San Antonio, Texas.
 1. P. Hu, S. Shackelford, **S. Yang**, H.C. Li, D. M. Stein, T.M. Scalea, C.F. Mackenzie, Do Multiple Vital Sign Sensors Improve the Prediction of Emergency Blood Transfusion in Adult Trauma Patients? Millitary Health System Research Symposium (MHSRS) 2015, Aug.17-20, Ft. Lauderdale, FL.
 1. P. Hu, **S. Yang**, F. Yang, H.C. Li, G. Hagegeorge, L. Hartsky, C. Miller, B. Bonds, C.F. Mackenzie, Big Data Challenge: How Much Redundance is Required in Real-time Trauma Patient Vital Signs Waveform Collecting System? Millitary Health System Research Symposium (MHSRS) 2015, Aug.17-20, Ft. Lauderdale, FL. 
