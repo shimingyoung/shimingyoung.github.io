@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Data Visualization in papers(1) - Bland-Altman plot
-subtitle: A post
+title: Data Visualization in papers(1)
+subtitle: Blant-Altman
 ---
 
 ---
@@ -25,5 +25,7 @@ To use it. assume in r workspace there are variables 'x' and 'y' as two measurem
 >Bland.Altman.re(x, y, rep.meas=TRUE, subject=id, xname='XMeas', yname='YMeas', addDensity=TRUE)
 ~~~~
 
-However, we must be cautious that the B-A plot (, including the bias and limit of agreement lines) could be misleading. It is better than RMSE, by giving more info. Still, in paper discussion, we should not rely on B-A, but need to look into the nature of the data. Sometimes, detailed analysis on a specific range of data might be useful. For example, in [SpHb 2016](../papers/AA2015_manuscript.pdf), we also used Fig. 4 to show how the disagreement in data may lead to results in clinical decision. In [Table S3a-3c RespRate2016](../papers/RR_STC.pdf), we used confusion tables to show two measurements' agreement in each category with clinical meaning.  
+However, we must be cautious that the B-A plot (, including the bias and limit of agreement lines) could be misleading. It is better than RMSE, by giving more info. Still, in paper discussion, we should not rely on B-A, but need to look into the nature of the data. Sometimes, detailed analysis on a specific range of data might be useful. For example, in [SpHb 2016](../papers/AA2015_manuscript.pdf), we also used Fig. 4 to show how the disagreement in data may lead to results in clinical decision. In [Table S3a-3c RespRate2016](../papers/RR_STC.pdf), we used confusion tables to show two measurements' agreement in each category with clinical meaning. 
+
+ 
 ---
