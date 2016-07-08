@@ -84,6 +84,7 @@ subtitle: My academic work
 
 I served as a reviewer for the following journals/conferences:
 
+1. IEEE Access
 1. Military Medicine
 1. International Journal of Data Science and Analytics
 1. International Conference on Intelligent Computing (ICIC2016)
