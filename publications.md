@@ -12,7 +12,7 @@ subtitle: My academic work
 
 ## Journal
 
-1. M. Bradley, L. Chang, **S. Yang**, P.F. Hu, B. Bonds, H. Li, M. Brenner, D.M. Stein, T.M. Scalea, _Open Chest Cardiac Massage Offers No Benefit Over Closed Chest Compressions in Patients with Traumatic Cardiac Arrest_, J. of Trauma, Accepted on Jul. 01, 2016.
+1. M. Bradley, B. Bonds, L. Chang, **S. Yang**, P.F. Hu, H. Li, M. Brenner, D.M. Stein, T.M. Scalea, _Open Chest Cardiac Massage Offers No Benefit Over Closed Chest Compressions in Patients with Traumatic Cardiac Arrest_, J. of Trauma, Accepted on Jul. 01, 2016. [Link](https://t.co/dweklpSL93) [PDF](../papers/lww_occm_ccc_2016.pdf)
 1. **S. Yang**, A. Menne, P.F. Hu, L. Stansbury, C. Gao, N. Dorsey, W. Chiu, S. Shackelford, C.F. Mackenzie, _Acoustic Sensor versus Electrocardiographically Derived Respiratory Rate in Unstable Trauma Patients_, J. of Clin. Monit. Comput. 2016, accepted on Jun. 3. [Link](http://link.springer.com/article/10.1007/s10877-016-9895-8) [PDF](../papers/RR_Manuscript.pdf) [Suppl.](../papers/RR_STC.pdf)
 1. N. Parimi, P.F. Hu, C. Mackenzie, **S. Yang**, et.al, _Automated Continuous Vital Signs Predict Use of Uncrossed Matched Blood (UnXRBC) and Massive Transfusioin (MT) Following Trauma_, J. of Trauma, 2016;80(6):897-906. [Link](http://journals.lww.com/jtrauma/Abstract/publishahead/Automated_continuous_vital_signs_predict_use_of.99566.aspx) [Draft](../papers/JoTAAST_2016draft.pdf)  
 1. Z.DW. Dezman, E. Hu, P.F. Hu, **S. Yang**, L.G. Stansbury, R. Fang, C. Miller, C.F. Mackenzie, _Computer Modelling Using Prehospital Vitals Predicts Transfusion and Mortality_, Prehospital Emergency Care, Accepted Jan. 2016. [Link](http://www.tandfonline.com/doi/full/10.3109/10903127.2016.1142624) [PDF](../papers/PEM_2016.pdf)
@@ -39,7 +39,8 @@ subtitle: My academic work
 
 ## Patent
 
-1. (Granted/published) P.Hu, C. Mackenzie, **S. Yang**, H. Chen, _Method and Apparatus for Predicting a Need for a Blood Transfusion_, US Patent No. 20160183885 [Link](http://www.freepatentsonline.com/y2016/0183885.html); Pub.No.: [WO/2015/023708 A1](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2015023708&recNum=71).
+1. (Granted/published) P.Hu, C. Mackenzie, **S. Yang**, H. Chen, _Method and Apparatus for Predicting a Need for a Blood Transfusion_, US Patent [No. 20160183885](http://www.freepatentsonline.com/y2016/0183885.html); 
+Pub.No.: [WO/2015/023708 A1](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2015023708&recNum=71).
 [UM Ventures](http://www.umventures.org/technologies/bleeding-risk-index-bri-monitor)
 
 ---
