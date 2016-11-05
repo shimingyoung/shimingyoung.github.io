@@ -11,7 +11,7 @@ subtitle: My academic work
 ***
 
 ## Journal
-1. P.F. Hu, **S. Yang**, H. Li, L.G. Stansbury, F. Yang, G Hagegeorge, C. Miller, P. Rock, D.M. Stein, C.F. Mackenzie, Collection of Real-time Patient Physiologic Data from Less Reliable Networks: a "monitor of monitors" system (MoMs). Journal of Medical Systems, 2016. Accepted for publication on Oct. 21, 2016.
+1. P.F. Hu, **S. Yang**, H. Li, L.G. Stansbury, F. Yang, G Hagegeorge, C. Miller, P. Rock, D.M. Stein, C.F. Mackenzie, Collection of Real-time Patient Physiologic Data from Less Reliable Networks: a "monitor of monitors" system (MoMs). Journal of Medical Systems, (2017)41: 3. doi:10.1007/s10916-016-0648-5. [Link](http://link.springer.com/article/10.1007/s10916-016-0648-5/fulltext.html) [PDF](../papers/JOMS_MoMs_2017.pdf)
 1. Anomaly Detection Outperforms Logistic Regression in Predicting Outcomes in Trauma Patients, Prehospital Emergency Care, Accepted Sep.20, 2016
 1. M. Bradley, B. Bonds, L. Chang, **S. Yang**, P.F. Hu, H. Li, M. Brenner, D.M. Stein, T.M. Scalea, _Open Chest Cardiac Massage Offers No Benefit Over Closed Chest Compressions in Patients with Traumatic Cardiac Arrest_, J. of Trauma, 81(5), p849-54(2016). [Link](https://t.co/dweklpSL93) [PDF](../papers/jww_occm_ccc_2016.pdf)
 1. **S. Yang**, A. Menne, P.F. Hu, L. Stansbury, C. Gao, N. Dorsey, W. Chiu, S. Shackelford, C.F. Mackenzie, _Acoustic Sensor versus Electrocardiographically Derived Respiratory Rate in Unstable Trauma Patients_, J. of Clin. Monit. Comput. 2016, accepted on Jun. 3. [Link](http://link.springer.com/article/10.1007/s10877-016-9895-8) [PDF](../papers/RR_Manuscript.pdf) [Suppl.](../papers/RR_STC.pdf)
