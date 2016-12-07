@@ -20,4 +20,9 @@ Now, we can see the AD is basically a quadratic classifier, which in theory shou
 ---
 
 ---
-Note that, if we assume that the data set is mostly dominated by the major class and use the entire data set to estimate the mean and covariance matrix, we could be free of outcome labels, which means that this method could still work in an unsupervised way. This may be useful in some clinical problems when labelling a large amount of outcomes is expensive or infeasible.  
+Note that, if we assume that the data set is mostly dominated by the major class and use the entire data set to estimate the mean and covariance matrix, we could be free of outcome labels, which means that this method could still work in an unsupervised way. This may be useful in some clinical problems when labelling a large amount of outcomes is expensive or infeasible. 
+
+
+Also note that, LR may outperforms AD in some situations. If the variables are many enough or have been mapped to a (higher) space that the outcomes are already linearly separable, LR could perform as good as a higher order classifier. If the class labels are well balanced, then the AD has no advantage to be used as an unsupervised method.  
+
+In short, choose appropriate methods based on the characteristics of the dataset. There is no one super method that is definitely better than another. 
