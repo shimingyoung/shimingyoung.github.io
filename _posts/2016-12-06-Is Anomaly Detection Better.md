@@ -12,7 +12,7 @@ The anomaly detection (AD) method was compared with logistic regression (LR), a 
 ---
 
 ---
-AD is a name often seen in signal processing. In machine learning, this method is known as the one-class classification. In this paper, the kernel Reed-Xiaoli detector  ![equation](http://www.sciweavers.org/tex2img.php?eq=y%3D%28x-%5Cmu%29%5ETK%5E%7B-1%7D%28x-%5Cmu%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0), where the matrix K is the covariance matrix of the training set. If we compare this to the quadratic discriminant analysis [(QDA) method](http://scikit-learn.org/stable/modules/lda_qda.html), it is the part inside the exponential equation in ![equation](http://www.sciweavers.org/tex2img.php?eq=p%28X%7Cy%3D1%29%20%3D%20%5Cfrac%7B1%7D%7B%282%5Cpi%29%5En%7CK%7C%5E%7B1%2F2%7D%7Dexp%28-%5Cfrac%7B1%7D%7B2%7D%28X-%5Cmu_1%29%5ETK%5E%7B-1%7D%28X-%5Cmu_1%29%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
+AD is a name often seen in signal processing. In machine learning, this method is known as the one-class classification. In this paper, the kernel Reed-Xiaoli detector  _y=(x-\mu)^TK^{-1}(x-\mu)_, where the matrix K is the covariance matrix of the training set. If we compare this to the quadratic discriminant analysis [(QDA) method](http://scikit-learn.org/stable/modules/lda_qda.html), it is the part inside the exponential equation in ![equation](http://www.sciweavers.org/tex2img.php?eq=p%28X%7Cy%3D1%29%20%3D%20%5Cfrac%7B1%7D%7B%282%5Cpi%29%5En%7CK%7C%5E%7B1%2F2%7D%7Dexp%28-%5Cfrac%7B1%7D%7B2%7D%28X-%5Cmu_1%29%5ETK%5E%7B-1%7D%28X-%5Cmu_1%29%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
 ---
 
 ---
