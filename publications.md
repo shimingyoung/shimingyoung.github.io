@@ -43,7 +43,6 @@ subtitle: My academic work
 1. (published) P.Hu, C. Mackenzie, **S. Yang**, H. Chen, _Method and Apparatus for Predicting a Need for a Blood Transfusion_, US Patent Appl. [No. 20160183885](http://www.freepatentsonline.com/y2016/0183885.html); 
 Pub.No.: [WO/2015/023708 A1](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2015023708&recNum=71).
 [UM Ventures](http://www.umventures.org/technologies/bleeding-risk-index-bri-monitor)
-
 1. (published) C. Mackenzie, **S. Yang**, P. Hu, E. Garofalo, _Automated Surgeon Performance Evaluation_, Pub.No:[WO/2017/031175](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2017031175) 
 
 ---
