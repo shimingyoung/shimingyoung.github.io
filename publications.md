@@ -45,6 +45,7 @@ Pub.No.: [WO/2015/023708 A1](https://patentscope.wipo.int/search/en/detail.jsf?d
 [UM Ventures](http://www.umventures.org/technologies/bleeding-risk-index-bri-monitor)
 
 1. (published) C. Mackenzie, **S. Yang**, P. Hu, E. Garofalo, _Automated Surgeon Performance Evaluation_, Pub.No:[WO/2017/031175](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2017031175) 
+
 ---
 
 ## Conference paper
