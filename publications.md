@@ -89,7 +89,11 @@ Pub.No.: [WO/2015/023708 A1](https://patentscope.wipo.int/search/en/detail.jsf?d
 I served as a reviewer for the following journals/conferences:
 
 1. IEEE Access
+1. Journal of Biomedical Informatics
 1. Military Medicine
+1. Contemporary Clinical Trial Communications (Elsevier)
+1. Entropy, MDPI
+1. Sensors, MDPI
 1. International Journal of Data Science and Analytics
 1. International Conference on Intelligent Computing (ICIC2016)
 1. Statistical Methods in Medical Research
