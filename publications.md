@@ -11,6 +11,7 @@ subtitle: My academic work
 ***
 
 ## Journal & Book Chap
+1. 
 1. Wasicek PJ, Teeter WA, **Shiming Yang**, Hu P, Gamble WB, Galvagno SM, Hoehn MR, Scalea TM, Morrison JJ. Arterial Waveform Morphomics During Hemorrhagic Shock. _Eur J Trauma and Emerg Surg_. 2019. In press
 1. Angela Crawford, **Shiming Yang**, ...  Concomitant Chest Trauma and Traumatic Brain Injury, Biomarkers Correlate with Worse Outcomes, _the Journal of Trauma_, 2019, [Link](https://link.springer.com/article/10.1007/s00068-019-01140-2) [PDF](../papers/morphomics_2019.pdf)
 1. **Shiming Yang**, Lynn Stansbury, Peter Rock, Thomas Scalea, Peter Hu, Linking Big Data and Prediction Strategies Tools, Pitfalls, and Lessons Learned, _Critical Care Medicine_, Mar. 2019. [Link](https://journals.lww.com/ccmjournal/Abstract/onlinefirst/Linking_Big_Data_and_Prediction_Strategies__Tools,.95980.aspx) [PDF](https://journals.lww.com/ccmjournal/Abstract/onlinefirst/Linking_Big_Data_and_Prediction_Strategies__Tools,.95980.aspx#pdf-link) 
